@@ -1,6 +1,6 @@
 <?php
 /**
-    Modèle category.php permet d'afficher une archive par catégorie d'article
+*  Modèle category.php permet d'afficher une archive par catégorie d'article
 */
 get_header() ?>
 <main class="site__main">
